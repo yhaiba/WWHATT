@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.danghai193.olympia"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Olympia</name>
+
+  <description>
+      Choose the right answer for each question.
+  </description>
+
+  <author href="https://danghai193.com" email="dangvjp2e@gmail.com">
+      danghai193
+  </author>
+  
+  <icon scr="icon.png" />
+
+</widget>
